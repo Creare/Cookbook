@@ -12,9 +12,11 @@ A collation of best practices and code snippets for web frontend and back-end de
 
 ### Example Commenting
 
-```python
-s = "Python syntax highlighting"
-print s
+```css
+/**
+ * 1. Default icon size is 16px.
+ * 2. Squash down the retina sprite to display at the correct size.
+ */
 ```
 
 
