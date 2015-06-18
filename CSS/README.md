@@ -19,6 +19,12 @@ A collation of best practices and code snippets for web frontend and back-end de
  */
 ```
 
+Hello
+```php
+<?php echo "Hello World"; ?>
+```
+
+
 
 #### Additional Reading
 http://cssguidelin.es/
