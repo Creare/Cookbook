@@ -2,7 +2,7 @@
 A collation of best practices and code snippets for web frontend and back-end development
 
 
-### High Level Guidelines
+#### High Level Guidelines
 * All CSS should be split into partials.
 * CSS should be merged and compressed via Sass 
 * Indent with 4 spaces, not tabs
@@ -10,7 +10,7 @@ A collation of best practices and code snippets for web frontend and back-end de
 * CSS files should be well commented
 
 
-### Example Commenting
+#### Example Commenting
 
 ```css
 /**
