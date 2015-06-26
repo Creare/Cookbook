@@ -55,3 +55,4 @@ To finish watching process hit Ctrl + C shortcut. Thats it, easy like that.
 
 - [CSS Guidelines by Harry Roberts.](http://cssguidelin.es/)
 - [Sass Guidelines by Hugo Giraudel](http://sass-guidelin.es/)
+- [Sass Tutorials on Level Up Tuts YouTube channel](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
