@@ -20,6 +20,7 @@ or
 ```
 ruby --version
 ```
+![Install Ruby on your computer](https://raw.githubusercontent.com/Creare/Cookbook/master/CSS/img/1.1.git)
 
 ### Install Sass
 
@@ -35,11 +36,15 @@ On Mac/Linux computer you may be asked about super user permissions. In that cas
 sudo gem install sass
 ```
 
+![Install Sass](https://raw.githubusercontent.com/Creare/Cookbook/master/CSS/img/1.2.git)
+
 To confirm run:
 
 ```
 sass -v
 ```
+
+![Install Sass - confirm](https://raw.githubusercontent.com/Creare/Cookbook/master/CSS/img/1.3.git)
 
 ### Compile Sass to CSS
 
@@ -48,6 +53,8 @@ In your project directory type:
 ```
 sass --watch input.scss:output.css --style compressed
 ```
+
+![Compile Sass to CSS](https://raw.githubusercontent.com/Creare/Cookbook/master/CSS/img/1.4.git)
 
 To finish watching process hit Ctrl + C shortcut. Thats it, easy like that.
 
